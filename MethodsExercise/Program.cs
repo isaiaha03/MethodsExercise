@@ -26,6 +26,7 @@
             Console.WriteLine("Multiplication: ", Multiply(2, 4, 6, 8));
             Console.WriteLine("Division: ", Divide(2, 4, 6, 8));
             Console.WriteLine("Modulus: ", Modulus(2, 4, 6, 8));
+
         }
 
         public static int Add(params int[] values)
