@@ -21,11 +21,11 @@
             //End of exercise one
 
             //Beginning of exercise two
-            Console.WriteLine("Addition: ", Add(2, 4, 6, 8));
-            Console.WriteLine("Subtraction: ", Subtract(2, 4, 6, 8));
-            Console.WriteLine("Multiplication: ", Multiply(2, 4, 6, 8));
-            Console.WriteLine("Division: ", Divide(2, 4, 6, 8));
-            Console.WriteLine("Modulus: ", Modulus(2, 4, 6, 8));
+            Console.WriteLine("Addition: " + Add(2, 4, 6, 8));
+            Console.WriteLine("Subtraction: " + Subtract(2, 4, 6, 8));
+            Console.WriteLine("Multiplication: " + Multiply(2, 4, 6, 8));
+            Console.WriteLine("Division: " + Divide(2, 4, 6, 8));
+            Console.WriteLine("Modulus: " + Modulus(2, 4, 6, 8));
 
         }
 
